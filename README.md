@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://gourangasatapathy.github.io/404-not-found-challenge/">
+    <a href="https://vitgouranga.github.io/404-not-found-challenge/">
       Demo
     </a>
     <span> | </span>
